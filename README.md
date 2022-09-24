@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TeryDev</h1>
 <h3 align="center">A passionate frontend developer from Czech Republic</h3>
-(img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/yhRYAkxFjyGf6s6ot8Pu9L97DwqVT1S3TD2CuyScq1o/rs:fit:281:296:1/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3NtemZs/M0U3YTRpSEsvZ2lw/aHkuZ2lm.gif")
+(img align="right" alt="Coding" width="400"src="https://imgs.search.brave.com/yhRYAkxFjyGf6s6ot8Pu9L97DwqVT1S3TD2CuyScq1o/rs:fit:281:296:1/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3NtemZs/M0U3YTRpSEsvZ2lw/aHkuZ2lm.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terydev&label=Profile%20views&color=0e75b6&style=flat" alt="terydev" /> </p>
 
