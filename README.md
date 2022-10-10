@@ -1,23 +1,70 @@
-<h1 align="center">Hi 👋, I'm TeryDev</h1>
-<h3 align="center">A passionate frontend developer from Czech Republic</h3>
+### hey
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=terydev&label=Profile%20views&color=0e75b6&style=flat" alt="terydev" /> </p>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-801%20hrs%2035%20mins-blue)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-474%20Thousand%20lines%20of%20code-blue)
 
-- 🔭 I’m currently working on **Lunar Tool**
+**🐱 My GitHub Data** 
 
-- 🌱 I’m currently learning **Python,HTML,CSS,**
+> 🏆 246 Contributions in the Year 2022
+ > 
+> 📦 97.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 47 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+```text
+🌞 Morning    39 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
+🌆 Daytime    102 commits    ██████████░░░░░░░░░░░░░░░   42.5% 
+🌃 Evening    66 commits     ███████░░░░░░░░░░░░░░░░░░   27.5% 
+🌙 Night      33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75%
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+```
+📅 **I'm Most Productive on Sunday** 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=terydev&show_icons=true&locale=en&layout=compact" alt="terydev" /></p>
+```text
+Monday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.42% 
+Tuesday      37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.42% 
+Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+Thursday     22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
+Friday       52 commits     █████░░░░░░░░░░░░░░░░░░░░   21.67% 
+Saturday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
+Sunday       59 commits     ██████░░░░░░░░░░░░░░░░░░░   24.58%
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terydev&show_icons=true&locale=en" alt="terydev" /></p>
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terydev&" alt="terydev" /></p>
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Budapest
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     29 repos            ████████████████░░░░░░░░░   65.91% 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+
+```
+
+
+
+ Last Updated on 10/10/2022 15:37:35 UTC
+<!--END_SECTION:waka-->
